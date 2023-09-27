@@ -142,9 +142,14 @@ footer p {
     body {
         font-size: 10px;
     }
+    
     .card {
         width: 100px;
         height: 400px;
+    }
+
+    .hero-title {
+        font-size:40px;
     }
 
     .card-img {
